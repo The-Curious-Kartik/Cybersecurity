@@ -23,9 +23,10 @@ I've always been curious about how hacking really works behind the scenes — no
 
 Stay tuned — I'm just getting started.
 
-Day - 1 
+#### Day - 1 
 Date - 13/05/2007
 The beginning of my journey 
+
              started reading roadmap.sh cybersecurity roadmap 
 
 
