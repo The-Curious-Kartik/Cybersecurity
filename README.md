@@ -24,7 +24,7 @@ I've always been curious about how hacking really works behind the scenes — no
 Stay tuned — I'm just getting started.
 
 #### Day - 1 
-Date - 13/05/2007
+Date - 13/05/2025
 The beginning of my journey 
 
              started reading roadmap.sh cybersecurity roadmap 
@@ -34,5 +34,10 @@ The beginning of my journey
 I have gone through more than half of the roadmap while understanding and connecting it to real world and simulating everything in mind 
 Here's my progress
 https://roadmap.sh/cyber-security?s=680f31cdfe43d1abf20b6020
+
+# My curiousity
+  I was curious about some things like how data travels across the world ,how system converts our audio to 0s and 1s ,and some more things 
+  Now these things that felt magical is somewhat making sense but still ,it feels magical.
+  
 
              
