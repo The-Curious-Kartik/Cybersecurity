@@ -38,6 +38,9 @@ https://roadmap.sh/cyber-security?s=680f31cdfe43d1abf20b6020
 # My curiousity
   I was curious about some things like how data travels across the world ,how system converts our audio to 0s and 1s ,and some more things 
   Now these things that felt magical is somewhat making sense but still ,it feels magical.
+# Things learned
+I learned how there are optical cables which is spread throughout the world from which the data is travelled through.
+I thought before that how can data flow through the world without any problems and reach the destination but after learning about network basics i got to know that for cellular data travel data only travels through the waves to the network tower then it is sent through optical cables.
   
 
              
