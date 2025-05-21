@@ -1,5 +1,3 @@
-# Cybersecurity
-My Journey of Cybersecurity
 # Cybersecurity Journey
 
 Welcome to my cybersecurity learning journey!  
