@@ -46,9 +46,19 @@ I have now completed the roadmap. I have read through everything and got the gis
 
 # My curiousity 
   I had a general idea of how hacking and security works but i was still somewhat curious about it.
-# Thing learned  
+# Things learned  
 I learned how security in web and applications work and how does things work in cybersecurity , i got the general idea of it.
 I leaned how breaches are done and how we minimize the risks that comes with attacks and other stuff related to cybersecurity.
+
+
+## Week 3 
+I have started learning basics of cybersecurity through Youtube. I think this would take some time as to understand topics I should have prior knowledge of basics like programing , scripting ,etc . I am not going to skip any part which i don't understand so this would take longer than usual to complete.
+
+# My curiousity 
+  I was curious about how we can catch data packects , intercept data in an area like network jamming .
+# Things learned 
+I learned how to use tools like wireshark to know the information about data packets , filter them to find useful information.
+I also learned how network jamming works in real life.
 
   
 
