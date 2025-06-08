@@ -1,6 +1,6 @@
 # Cybersecurity Journey
 
-Welcome to my cybersecurity learning journey!  
+Welcome to my Cybersecurity learning journey!  
 This repository will document my progress, new experiences, labs, and tools I explore as I grow from a beginner to an expert in the field.
 
 ---
@@ -52,7 +52,7 @@ I leaned how breaches are done and how we minimize the risks that comes with att
 
 
 ## Week 3 
-I have started learning basics of cybersecurity through Youtube. I think this would take some time as to understand topics I should have prior knowledge of basics like programing , scripting ,etc . I am not going to skip any part which i don't understand so this would take longer than usual to complete.
+I have started learning basics of cybersecurity through Youtube. I think this would take some time, as to understand topics I should have prior knowledge of basics like programing , scripting ,etc . I am not going to skip any part which i don't understand so this would take longer than usual to complete.
 
 # My curiousity 
   I was curious about how we can catch data packects , intercept data in an area like network jamming .
