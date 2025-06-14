@@ -1,77 +1,89 @@
 # Cybersecurity Journey
 
 Welcome to my Cybersecurity learning journey!  
-This repository will document my progress, new experiences, labs, and tools I explore as I grow from a beginner to an expert in the field.
+This repository documents my weekly progress as I grow from a beginner to an expert in cybersecurity. It includes tools, concepts, labs, and the curious thoughts I explore along the way.
 
 ---
 
 ### Why I Started
-I've always been curious about how hacking really works behind the scenes — not the movie stuff, but the real skills. Now I'm turning that curiosity into skill.
-
-### What You’ll Find Here
-- Resources I used in this journey
-- The things which felt magical to me
-- Projects and challenges
-- Labs from TryHackMe, Hack The Box, etc.
-- Scripts, tools, and CTF writeups
-
-   ### Update frequency will be weekly
+I've always been curious about how hacking really works — not the movie kind, but the actual techniques used in the real world. Now I'm turning that curiosity into hands-on skills.
 
 ---
 
-Stay tuned — I'm just getting started.
+### What You’ll Find Here
+- Weekly progress logs
+- My thought process and learning highlights
+- TryHackMe, Hack The Box, and other lab experiences
+- Notes on tools, commands, and beginner-friendly writeups
 
-#### Day - 1 
-Date - 13/05/2025
-The beginning of my journey 
+**🗓️ Updates: Weekly**
 
-             started reading roadmap.sh cybersecurity roadmap 
+---
 
+### Day 1 – 13/05/2025  
+The beginning of my journey.  
+Started with [roadmap.sh’s Cybersecurity Roadmap](https://roadmap.sh/cyber-security?s=680f31cdfe43d1abf20b6020)
 
-## Week 1 
-I have gone through more than half of the roadmap while understanding and connecting it to real world and simulating everything in mind 
-Here's my progress
-https://roadmap.sh/cyber-security?s=680f31cdfe43d1abf20b6020
+---
 
-# My curiousity
-  I was curious about some things like how data travels across the world ,how system converts our audio to 0s and 1s ,and some more things 
-  Now these things that felt magical is somewhat making sense but still ,it feels magical.
-# Things learned
-I learned how there are optical cables which is spread throughout the world from which the data is travelled through.
-I thought before that how can data flow through the world without any problems and reach the destination but after learning about network basics i got to know that for cellular data travel data only travels through the waves to the network tower then it is sent through optical cables.
+## Week 1
 
+This week, I completed over half the roadmap while actively trying to connect each concept with the real world. I mentally simulated how things like data transmission and digital encoding actually work.
 
-## Week 2  
-I have now completed the roadmap. I have read through everything and got the gist of many things. Now I am thinking of getting the basics down with a youtube video and set up a lab for practice so that i can master the foundation.
+### 🔍 My Curiosity
+I wondered:
+- How does data travel across the world?
+- How is our voice turned into 0s and 1s and then transferred?
+These things once felt magical — now they’re starting to make sense.
 
-# My curiousity 
-  I had a general idea of how hacking and security works but i was still somewhat curious about it.
-# Things learned  
-I learned how security in web and applications work and how does things work in cybersecurity , i got the general idea of it.
-I leaned how breaches are done and how we minimize the risks that comes with attacks and other stuff related to cybersecurity.
+### 📚 Things I Learned
+- Data travels globally through **optical fiber cables** laid under the oceans and across continents.
+- **Cellular data** only travels wirelessly to the nearest tower — then continues via wired optical infrastructure.
 
+---
 
-## Week 3 
-I have started learning basics of cybersecurity through Youtube. I think this would take some time, as to understand topics I should have prior knowledge of basics like programing , scripting ,etc . I am not going to skip any part which i don't understand so this would take longer than usual to complete.
+## Week 2
 
-# My curiousity 
-  I was curious about how we can catch data packects , intercept data in an area like network jamming .
-# Things learned 
-I learned how to use tools like wireshark to know the information about data packets , filter them to find useful information.
-I also learned how network jamming works in real life.
+I finished reading the complete roadmap this week. Now I’ve decided to strengthen my foundations through YouTube courses and hands-on lab practice.
 
+### 🔍 My Curiosity
+I wanted to understand:
+- How real attacks happen and how systems stay secure.
+- What makes certain platforms vulnerable, and how attackers exploit them.
 
-## Week 4 
-This week, I focused on understanding the fundamentals of cryptography. I explored how encryption and decryption work, and gained insight into the role cryptographic algorithms play in securing digital communication.
+### 📚 Things I Learned
+- A solid overview of **web and application security**.
+- How **breaches** occur and how organizations **minimize risk**.
+- The general structure of a cybersecurity environment.
 
-# My curiousity
-  I was especially interested in how messages are protected from unauthorized access, and how encryption ensures privacy. I also wanted to know why some older  methods are no longer used.
-  # Things learned
-I learned how encryption transforms plaintext into ciphertext, and how decryption reverses it back using a key.
-I studied legacy cryptographic algorithms like DES, 3DES, MD5, SHA-1, and why they are now considered insecure.
-I also got a basic understanding of modern alternatives like AES and SHA-256.
+---
 
+## Week 3
 
-  
+I started learning practical cybersecurity through YouTube. Some topics felt easy, others required background knowledge in things like scripting and networking. Instead of skipping anything, I’ve chosen to take my time and understand everything deeply.
 
-             
+### 🔍 My Curiosity
+I was curious about:
+- How attackers can **intercept and capture data packets**.
+- Whether **network jamming** and other real-world disruptions are possible.
+
+### 📚 Things I Learned
+- How to use tools like **Wireshark** to analyze network traffic and extract useful data.
+- How **network jamming** works and its limitations in real-world scenarios.
+
+---
+
+## Week 4
+
+This week, I focused on the **basics of cryptography** — how encryption and decryption secure our communications. I also explored the difference between modern encryption algorithms and older legacy ones.
+
+### 🔍 My Curiosity
+I wanted to know:
+- How encryption protects messages from being read by unauthorized people.
+- Why older algorithms like DES and MD5 are now considered insecure.
+
+### 📚 Things I Learned
+- How **encryption** converts plaintext into ciphertext, and **decryption** turns it back using a key.
+- The differences between **symmetric and asymmetric encryption**.
+- Why algorithms like **DES, 3DES, MD5, and SHA-1** are now obsolete.
+- An introduction to stronger algorithms like **AES** and **SHA-256**, which are widely used today.
