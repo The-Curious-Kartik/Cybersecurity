@@ -60,6 +60,18 @@ I have started learning basics of cybersecurity through Youtube. I think this wo
 I learned how to use tools like wireshark to know the information about data packets , filter them to find useful information.
 I also learned how network jamming works in real life.
 
+
+## Week 4 
+This week, I focused on understanding the fundamentals of cryptography. I explored how encryption and decryption work, and gained insight into the role cryptographic algorithms play in securing digital communication.
+
+# My curiousity
+  I was especially interested in how messages are protected from unauthorized access, and how encryption ensures privacy. I also wanted to know why some older  methods are no longer used.
+  # Things learned
+I learned how encryption transforms plaintext into ciphertext, and how decryption reverses it back using a key.
+I studied legacy cryptographic algorithms like DES, 3DES, MD5, SHA-1, and why they are now considered insecure.
+I also got a basic understanding of modern alternatives like AES and SHA-256.
+
+
   
 
              
