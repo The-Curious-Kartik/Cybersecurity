@@ -93,13 +93,13 @@ I wanted to know:
 ## Week 5
 This week, I moved from reading theory to watching live demonstrations of real-world ethical hacking. I started learning how to use Kali Linux as an attacker machine and got familiar with basic tools and workflows hackers use every day.
 
-### My Curiosity
+### 🔍 My Curiosity
 I was eager to understand:
 How hackers actually use tools like Kali Linux in live environments.
 What the basic workflow of an ethical hacker looks like in action.
 How a lab environment helps simulate safe and legal hacking scenarios.
 
-### Things I Learned
+### 📚 Things I Learned
 How to navigate and use Kali Linux for penetration testing.
 The basics of ethical hacking: information gathering, scanning, and vulnerability assessment.
 How professional hackers chain tools together to simulate attacks.
