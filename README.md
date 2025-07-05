@@ -113,6 +113,7 @@ This week, I completed the final portion of the cybersecurity fundamentals video
 ### 🔍 My Curiosity
 I was curious about:
 What kind of questions I might face in entry-level interviews
+
 How to explain core topics clearly and avoid surface-level answers
 
 ### 📚 Things I Learned
