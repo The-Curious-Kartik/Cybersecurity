@@ -107,4 +107,36 @@ Why it’s essential to learn in a controlled lab environment instead of the rea
 
 ---
 
+## Week 6
+This week, I completed the final portion of the cybersecurity fundamentals video course. The last section focused on common interview-type questions, key definitions, and real-world mistakes beginners make when explaining cybersecurity concepts.
+
+### 🔍 My Curiosity
+I was curious about:
+What kind of questions I might face in entry-level interviews
+How to explain core topics clearly and avoid surface-level answers
+
+### 📚 Things I Learned
+Common interview questions and how to approach them
+The difference between similar terms like authentication vs. authorization
+How to avoid vague or incorrect answers and give real-world context
+
+## Week 7
+This week, I started practical cybersecurity training via TryHackMe’s Cyber Security 101 path. I completed two foundational rooms: Careers in Cyber and Security Principles.
+
+### 🔍 My Curiosity
+I wanted to understand:
+What cybersecurity roles exist and which one suits my mindset
+What core principles guide security systems and how they actually work
+
+### ⚙️ Rooms Completed
+“Careers in Cyber” room — learned different cyber career paths like penetration tester, SOC analyst, incident responder, malware analyst, and red teamer 
+“Security Principles” room — covered CIA Triad, DAD Triad, security models (Bell-LaPadula, Biba), defense-in-depth, and ISO/IEC 19249 principles 
+
+### 📚 Things I Learned
+Overview of key cybersecurity roles and responsibilities
+Understanding of CIA (Confidentiality, Integrity, Availability) and its opposite model, DAD (Disclosure, Alteration, Destruction)
+Insight into classic security models like Bell-LaPadula and Biba
+The concept of defense-in-depth (layered security)
+Introduction to ISO/IEC 19249 design principles like least privilege and secure defaults
+
 
