@@ -95,15 +95,15 @@ This week, I moved from reading theory to watching live demonstrations of real-w
 
 ### 🔍 My Curiosity
 I was eager to understand:
-How hackers actually use tools like Kali Linux in live environments.
-What the basic workflow of an ethical hacker looks like in action.
-How a lab environment helps simulate safe and legal hacking scenarios.
+- How hackers actually use tools like Kali Linux in live environments.
+- What the basic workflow of an ethical hacker looks like in action.
+- How a lab environment helps simulate safe and legal hacking scenarios.
 
 ### 📚 Things I Learned
-How to navigate and use Kali Linux for penetration testing.
-The basics of ethical hacking: information gathering, scanning, and vulnerability assessment.
-How professional hackers chain tools together to simulate attacks.
-Why it’s essential to learn in a controlled lab environment instead of the real world.
+- How to navigate and use Kali Linux for penetration testing.
+- The basics of ethical hacking: information gathering, scanning, and vulnerability assessment.
+- How professional hackers chain tools together to simulate attacks.
+- Why it’s essential to learn in a controlled lab environment instead of the real world.
 
 ---
 
@@ -112,32 +112,31 @@ This week, I completed the final portion of the cybersecurity fundamentals video
 
 ### 🔍 My Curiosity
 I was curious about:
-What kind of questions I might face in entry-level interviews
-
-How to explain core topics clearly and avoid surface-level answers
+- What kind of questions I might face in entry-level interviews.
+- How to explain core topics clearly and avoid surface-level answers.
 
 ### 📚 Things I Learned
-Common interview questions and how to approach them
-The difference between similar terms like authentication vs. authorization
-How to avoid vague or incorrect answers and give real-world context
+- Common interview questions and how to approach them.
+- The difference between similar terms like authentication vs. authorization.
+- How to avoid vague or incorrect answers and give real-world context.
+
+---
 
 ## Week 7
-This week, I started practical cybersecurity training via TryHackMe’s Cyber Security 101 path. I completed two foundational rooms: Careers in Cyber and Security Principles.
+This week, I started practical cybersecurity training via TryHackMe’s Cyber Security 101 path. I completed two foundational rooms: **Careers in Cyber** and **Security Principles**.
 
 ### 🔍 My Curiosity
 I wanted to understand:
-What cybersecurity roles exist and which one suits my mindset
-What core principles guide security systems and how they actually work
+- What cybersecurity roles exist and which one suits my mindset.
+- What core principles guide security systems and how they actually work.
 
 ### ⚙️ Rooms Completed
-“Careers in Cyber” room — learned different cyber career paths like penetration tester, SOC analyst, incident responder, malware analyst, and red teamer 
-“Security Principles” room — covered CIA Triad, DAD Triad, security models (Bell-LaPadula, Biba), defense-in-depth, and ISO/IEC 19249 principles 
+- **Careers in Cyber** — learned different cyber career paths like penetration tester, SOC analyst, incident responder, malware analyst, and red teamer.
+- **Security Principles** — covered CIA Triad, DAD Triad, security models (Bell-LaPadula, Biba), defense-in-depth, and ISO/IEC 19249 principles.
 
 ### 📚 Things I Learned
-Overview of key cybersecurity roles and responsibilities
-Understanding of CIA (Confidentiality, Integrity, Availability) and its opposite model, DAD (Disclosure, Alteration, Destruction)
-Insight into classic security models like Bell-LaPadula and Biba
-The concept of defense-in-depth (layered security)
-Introduction to ISO/IEC 19249 design principles like least privilege and secure defaults
-
-
+- Overview of key cybersecurity roles and responsibilities.
+- Understanding of CIA (Confidentiality, Integrity, Availability) and its opposite model, DAD (Disclosure, Alteration, Destruction).
+- Insight into classic security models like Bell-LaPadula and Biba.
+- The concept of defense-in-depth (layered security).
+- Introduction to ISO/IEC 19249 design principles like least privilege and secure defaults.
