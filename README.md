@@ -140,3 +140,60 @@ I wanted to understand:
 - Insight into classic security models like Bell-LaPadula and Biba.
 - The concept of defense-in-depth (layered security).
 - Introduction to ISO/IEC 19249 design principles like least privilege and secure defaults.
+
+---
+
+## Week 8
+
+This week, I focused on understanding how large organizations build secure frameworks around people, processes, and technology. I learned that cybersecurity isn’t just about hacking tools — it's also about aligning with laws, policies, and internal governance.
+
+### 🔍 My Curiosity
+I wanted to understand:
+- How companies ensure long-term security without just relying on tools.
+- What frameworks and standards guide security decisions at an enterprise level.
+- How governance differs from technical controls.
+
+### ⚙️ Rooms Completed
+- **Governance and Compliance** — explored how organizations use frameworks, policies, and regulations to enforce good security practices, meet legal obligations, and align business goals with cybersecurity.
+
+### 📚 Things I Learned
+- **Governance** is about how decisions are made, who is accountable, and how risk is managed strategically across an organization.
+- **Compliance** ensures the company meets legal, regulatory, and contractual obligations (like GDPR, HIPAA, or PCI-DSS).
+- Learned about the **GRC triad** — Governance, Risk Management, and Compliance — and how each supports the other.
+- Understood how **risk appetite**, **risk tolerance**, and **risk mitigation** shape security decisions.
+- Learned about **common frameworks** such as NIST Cybersecurity Framework, ISO 27001, COBIT, and how they help structure security controls.
+- Realized that many high-level security controls don’t involve tools or code — but focus on leadership, policy enforcement, and auditing.
+
+### ✅ Summary
+This week shifted my perspective from technical hacking to organizational-level security. I now understand how businesses build cybersecurity into their culture through frameworks, policies, and governance — not just tools.
+
+---
+
+## Week 9
+
+This week marked the beginning of my TryHackMe Premium journey. With full access unlocked, I started the Presecurity path to strengthen my fundamentals before diving deeper into hands-on technical skills. I focused on understanding the big-picture roles in cybersecurity — offensive, defensive, and how different careers contribute to the field.
+
+### 🔍 My Curiosity
+I wanted to understand:
+- The difference between red team (offensive) and blue team (defensive) roles.
+- What real-world cybersecurity careers look like and what they require.
+- What skills I’ll need long-term based on the kind of work I enjoy most.
+
+### ⚙️ Rooms Completed
+- **Introduction to Offensive Security** — introduced ethical hacking, red teaming, and core phases of an attack (reconnaissance, exploitation, post-exploitation). Showed how attackers think and operate using tools like Nmap, Metasploit, and Burp Suite.
+- **Introduction to Defensive Security** — covered blue team roles like SOC analyst, incident responder, and threat hunter. Explained log analysis, SIEM, and network defense techniques used to detect and respond to attacks.
+- **Careers in Cyber** — explored common cybersecurity job roles, their responsibilities, and the typical certification paths (like Security+, OSCP, and CEH). Helped clarify how people enter the field from both technical and non-technical backgrounds.
+
+### 📚 Things I Learned
+- Offensive security focuses on proactively finding and exploiting vulnerabilities before malicious hackers can.
+- Red teamers use tools like Nmap, Wireshark, and Metasploit to simulate attacks in controlled environments.
+- Defensive security (blue team) is about monitoring systems, detecting intrusions, and stopping breaches in real-time.
+- SIEM platforms help defenders aggregate and analyze logs across networks for suspicious activity.
+- Career paths in cybersecurity are diverse — from analysts and penetration testers to GRC professionals.
+- Certifications like CompTIA Security+, OSCP, and CISSP map to different roles and experience levels.
+- Mindset matters: curiosity, problem-solving, and persistence are just as important as tools.
+
+### ✅ Summary
+This week gave me a broader perspective on the field of cybersecurity. I now understand the core differences between offensive and defensive work and have a clearer idea of the roles I might enjoy. This foundation will help me stay focused and intentional as I move into deeper topics over the coming weeks.
+
+
