@@ -196,4 +196,37 @@ I wanted to understand:
 ### ✅ Summary
 This week gave me a broader perspective on the field of cybersecurity. I now understand the core differences between offensive and defensive work and have a clearer idea of the roles I might enjoy. This foundation will help me stay focused and intentional as I move into deeper topics over the coming weeks.
 
+---
 
+## Week 10
+
+This week got me diving into the **Network Fundamentals** path on TryHackMe, where I explored how data actually travels across networks. Understanding these basics is crucial before jumping into hacking tools and attacks.
+
+### 🔍 My Curiosity
+I wanted to understand:
+- How network devices talk to each other and make communication possible.
+- The purpose of the **7 layers of the OSI model** and how they interact.
+- How data gets packaged and moved across a network — from sending device to receiving device.
+
+### ⚙️ Rooms Completed
+- **What is Networking?** — Learned basic networking terms like LAN, WAN, routers, switches, and IP addressing.
+- **Intro to LAN** — Discovered how devices connect in local networks and how they manage traffic.
+- **OSI Model** — Covered all 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+- **Packets & Frames** — Learned how data is encapsulated into frames at the Data Link layer and packets at the Network layer.
+- **Extending Your Network** — Explored hardware like bridges, switches, routers, access points, and how networks grow beyond a single segment.
+
+### 📚 Things I Learned
+- *OSI’s 7 Layers*:  
+  1. Physical – Cables, signals, bits on the wire  
+  2. Data Link – MAC addresses, frames, error detection  
+  3. Network – IP addressing, routing packets  
+  4. Transport – TCP/UDP, segmentation, reassembly  
+  5. Session – Establishing and managing sessions/connections  
+  6. Presentation – Data formats, encryption/decryption  
+  7. Application – Protocols like HTTP, DNS, FTP  
+- *Frames vs Packets*: Frames operate at Layer 2 with MAC addresses; packets at Layer 3 with IP addresses.
+- *LAN devices*: Switches work at Data Link layer, routers at Network layer, and bridges connect segments.
+- *Network extension*: Used devices like repeaters and access points to grow networks; understood broadcast vs unicast vs multicast communications.
+
+### ✅ Summary
+This week gave me a strong technical foundation — from physical cables all the way to application protocols. I’m now 100% sure that a clear understanding of the OSI model and data flow is essential before diving deeper into network security labs (like sniffing or spoofing). With this knowledge, I’m ready to tackle deeper cybersecurity topics confidently.
