@@ -230,3 +230,36 @@ I wanted to understand:
 
 ### ✅ Summary
 This week gave me a strong technical foundation — from physical cables all the way to application protocols. I’m now 100% sure that a clear understanding of the OSI model and data flow is essential before diving deeper into network security labs (like sniffing or spoofing). With this knowledge, I’m ready to tackle deeper cybersecurity topics confidently.
+
+---
+
+## Week 11
+
+This week, I focused on the **How The Web Works** path on TryHackMe. I wanted to gain a deeper understanding of how the internet functions under the hood — from typing a URL to getting a web page. These concepts are essential for anyone pursuing ethical hacking or web security.
+
+### 🔍 My Curiosity  
+I wanted to understand:
+- How websites are built and served to users.
+- What happens behind the scenes when I visit a URL.
+- How web protocols like **DNS** and **HTTP** actually function.
+- How attackers can exploit weaknesses in these processes.
+
+### ⚙️ Rooms Completed  
+- **DNS in Detail** — Understood how domain names resolve to IP addresses through DNS queries, types of DNS records (A, CNAME, MX), and used tools like `nslookup` and `dig`.
+- **HTTP in Detail** — Learned how web browsers request content using HTTP. Covered methods like GET, POST, PUT, DELETE, and status codes like 200, 404, 500.
+- **How Websites Work** — Studied front-end vs back-end architecture. Understood HTML, CSS, JavaScript basics and how dynamic content is served using databases and servers.
+- **Putting it all together** — Connected DNS + HTTP + web structure into a full cycle: domain resolution → HTTP request → server response → rendering in browser.
+
+### 📚 Things I Learned  
+- *DNS Lookup Process*: Recursive and iterative queries, how caching improves speed, and how domains are structured from root down to TLD.
+- *HTTP Protocol*: HTTP is stateless. Headers, status codes, and methods define how clients and servers communicate.
+- *Client-Server Model*: Browsers (clients) send requests; web servers process them and send back HTML, images, or data.
+- *Web Stack*: Learned how websites are built using front-end code (HTML/CSS/JS) and back-end logic (PHP, Flask, Node.js) tied to a database.
+- *Security Insight*: Saw where misconfigurations or insecure headers can become entry points for attackers.
+
+### ✅ Summary  
+I now understand what happens from the moment I hit "Enter" on a URL to the moment the page appears. This knowledge will be crucial later when I begin testing web apps for vulnerabilities like XSS or SQLi. I’m starting to view the internet not just as a user, but as a future ethical hacker watching for weak spots.
+
+---
+
+
