@@ -262,4 +262,35 @@ I now understand what happens from the moment I hit "Enter" on a URL to the mome
 
 ---
 
+## Week 12
+
+This week I continued deepening my Linux skills through the **Linux Fundamentals** path on TryHackMe. I completed all three parts and now feel more confident navigating the Linux terminal — a must for any cybersecurity learner.
+
+### 🔍 My Curiosity
+I wanted to:
+- Get hands-on experience with common Linux commands and utilities.
+- Understand how permissions, file structures, and remote access work.
+- Learn to manage and interact with Linux systems like a professional.
+
+### ⚙️ Rooms Completed
+- **Linux Fundamentals Part 1** — Learned basic commands like `ls`, `cd`, `pwd`, `mkdir`, `touch`, and `man`. Practiced navigating and managing files.
+- **Linux Fundamentals Part 2** — Covered SSH access, command flags, man pages, switching users, and key Linux directories like `/etc`, `/home`, and `/var`.
+- **Linux Fundamentals Part 3** — Explored cron jobs, package management, logs, and system maintenance. Learned how Linux handles scheduled tasks and package updates.
+
+
+### 📚 Things I Learned
+- *Linux Navigation*: I’m now fast with `ls`, `cd`, `mkdir`, and `rm -rf`.
+- *SSH Basics*: I can connect to remote machines via `ssh user@ip`.
+- *Man Pages*: Use `man <command>` to learn any command’s usage and options.
+- *File Permissions*: Learned about read (`r`), write (`w`), execute (`x`) rights and what `chmod`, `chown`, and `su`/`sudo` do.
+- *Crontab Format*: Understood how to schedule tasks using `crontab -e` and interpret timing patterns like `*/12 * * * *`.
+- *Package Managers*: Installed and removed software using `apt` and `dpkg`.
+- *System Logs*: Used commands like `journalctl`, `dmesg`, and checked `/var/log/syslog` to read system activity.
+
+### ✅ Summary
+This week was all about mastering the Linux terminal. I’ve gained practical skills for remote access, managing users, permissions, system automation, and software management. These are essential tools I’ll be using frequently when working on real-world cybersecurity tasks and systems.
+
+
+---
+
 
