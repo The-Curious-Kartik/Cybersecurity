@@ -293,4 +293,26 @@ This week was all about mastering the Linux terminal. I’ve gained practical sk
 
 ---
 
+## Week 13
+
+This week I moved into **Windows Fundamentals** on TryHackMe. Getting hands-on with Windows security controls gave me a solid understanding of how the system is structured and where attackers/defenders focus their efforts.
+
+### ⚙️ Rooms Completed
+- **Windows Fundamentals 1** — Learned about the Windows desktop, NTFS file system, UAC (User Account Control), and basic system navigation like Control Panel.
+- **Windows Fundamentals 2** — Explored System Configuration, deeper UAC settings, Resource Monitoring, and the Windows Registry.
+- **Windows Fundamentals 3** — Studied built-in Microsoft security tools such as Windows Updates, Windows Security, and BitLocker.
+
+### 📚 Things I Learned
+- How **NTFS** manages files and permissions compared to Linux.
+- The role of **UAC** in preventing unauthorized changes to the system.
+- Importance of **system configuration** and **resource monitoring** for both performance and security.
+- How the **Windows Registry** stores critical system information.
+- Built-in protections like **BitLocker** (for disk encryption) and **Windows Security** that serve as the first line of defense.
+  
+### 🎖️ Milestone
+I also completed the **Pre Security Learning Path** and earned my official TryHackMe certificate ✅  
+- **Certificate:** [Pre Security Learning Path](#) (earned on 14th August 2025)  
+
+### ✅ Summary
+This week wrapped up my **Pre Security** journey and introduced me to **Windows internals and defenses**. With this foundation, I now understand how Windows systems operate under the hood, preparing me for deeper exploitation and defense techniques in upcoming paths.
 
