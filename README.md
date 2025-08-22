@@ -316,3 +316,24 @@ I also completed the **Pre Security Learning Path** and earned my official TryHa
 ### ✅ Summary
 This week wrapped up my **Pre Security** journey and introduced me to **Windows internals and defenses**. With this foundation, I now understand how Windows systems operate under the hood, preparing me for deeper exploitation and defense techniques in upcoming paths.
 
+---
+
+## Week 14  
+
+This week, I explored two important areas that boost both efficiency and foundational cybersecurity knowledge: **search skills** and **Active Directory basics**.  
+
+### ⚙️ Rooms Completed  
+- **Search Skills** — Learned how to efficiently search the internet, use advanced Google operators, and explore specialized search engines. Practiced finding technical documentation and filtering useful information quickly.  
+- **Active Directory Basics** — Got introduced to the core concepts of Active Directory, including domains, forests, organizational units (OUs), and how authentication/authorization works in Windows environments.  
+
+### 📚 Things I Learned  
+- Search operators like `site:`, `filetype:`, and `intitle:` make online research much faster.  
+- Technical documentation and forums can often provide more accurate details than general articles.  
+- Active Directory acts as the backbone for identity and access management in Windows networks.  
+- Key AD concepts: **Domain Controllers, Kerberos authentication, users vs. groups, and OUs**.  
+
+### ✅ Summary  
+This week was all about sharpening two different but essential skills.  
+- **Search Skills** improved my ability to quickly gather accurate information, a vital ability for cybersecurity.  
+- **Active Directory Basics** gave me a strong starting point for understanding Windows enterprise environments, which I’ll encounter often in penetration testing and red teaming.  
+
