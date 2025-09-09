@@ -330,7 +330,38 @@ This week, I explored two important areas that boost both efficiency and foundat
 - Search operators like `site:`, `filetype:`, and `intitle:` make online research much faster.  
 - Technical documentation and forums can often provide more accurate details than general articles.  
 - Active Directory acts as the backbone for identity and access management in Windows networks.  
-- Key AD concepts: **Domain Controllers, Kerberos authentication, users vs. groups, and OUs**.  
+- Key AD concepts: **Domain Controllers, Kerberos authentication, users vs. groups, and OUs**.
+
+---
+
+## Week 15
+
+This week I worked on strengthening my command-line skills across both **Windows and Linux**. I explored how commands differ between the Windows Command Line, PowerShell, and Linux shells, and why mastering all three is essential for cybersecurity.
+
+### 🔍 My Curiosity
+I wanted to understand:
+- How Windows CMD compares with PowerShell in terms of power and flexibility.  
+- Why PowerShell is considered object-oriented and how that helps in automation.  
+- The role of shells in Linux and how scripting differs from just typing commands.  
+
+### ⚙️ Rooms Completed
+- **Windows Command Line** — Practiced essential commands like `dir`, `copy`, `move`, `ipconfig`, and learned how CMD still provides quick control over Windows systems.  
+- **Windows PowerShell** — Explored PowerShell basics, learning about cmdlets (`Get-Process`, `Stop-Process`, `Get-Help`) and how it goes beyond CMD with object-oriented control.  
+- **Linux Shells** — Learned about Bash, Zsh, and other shells, while understanding scripting basics and how Linux shells give powerful automation and customization options.  
+
+### 📚 Things I Learned
+- CMD works mostly with **text output**, while PowerShell works with **objects**, making it much more powerful for filtering and automation.  
+- PowerShell cmdlets can interact with Windows internals (processes, registry, services) directly.  
+- Linux shells are not just interfaces but **interpreters** that allow scripting, pipelines, and advanced automation.  
+- Scripting is the backbone of automation in both Linux and Windows environments.  
+
+### ✅ Summary
+This week gave me a strong foundation in command-line environments across both operating systems. I now see why learning the command line is critical for penetration testing and system administration — it provides direct control, automation, and flexibility that GUIs can’t match.  
+
+---
+
+
+  
 
 ### ✅ Summary  
 This week was all about sharpening two different but essential skills.  
