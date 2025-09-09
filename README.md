@@ -332,6 +332,11 @@ This week, I explored two important areas that boost both efficiency and foundat
 - Active Directory acts as the backbone for identity and access management in Windows networks.  
 - Key AD concepts: **Domain Controllers, Kerberos authentication, users vs. groups, and OUs**.
 
+### ✅ Summary  
+This week was all about sharpening two different but essential skills.  
+- **Search Skills** improved my ability to quickly gather accurate information, a vital ability for cybersecurity.  
+- **Active Directory Basics** gave me a strong starting point for understanding Windows enterprise environments, which I’ll encounter often in penetration testing and red teaming.
+
 ---
 
 ## Week 15
@@ -363,8 +368,5 @@ This week gave me a strong foundation in command-line environments across both o
 
   
 
-### ✅ Summary  
-This week was all about sharpening two different but essential skills.  
-- **Search Skills** improved my ability to quickly gather accurate information, a vital ability for cybersecurity.  
-- **Active Directory Basics** gave me a strong starting point for understanding Windows enterprise environments, which I’ll encounter often in penetration testing and red teaming.  
+
 
