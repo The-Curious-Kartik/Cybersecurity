@@ -365,7 +365,84 @@ This week gave me a strong foundation in command-line environments across both o
 
 ---
 
+## 🗓️ Week 16  
 
+### 🧠 My Curiosity  
+After finishing the Windows and command-line paths, I wanted to understand how data travels through networks — from one computer to another. Networking felt like the foundation of cybersecurity, so I began exploring its core ideas to build a strong base before diving into advanced concepts.
+
+---
+
+### ⚙️ Rooms Completed  
+- **Networking Concepts** — Learned about the OSI model and TCP/IP layers.  
+- **Networking Essentials** — Understood how DHCP, DNS, and ARP work.  
+- **Networking Core Protocols** — Studied the main protocols like TCP, UDP, and ICMP.  
+
+---
+
+### 📘 Things I Learned  
+- How **data flows** between layers in the OSI and TCP/IP models.  
+- The functions of **DHCP** (assigning IPs), **DNS** (resolving domains), and **ARP** (mapping MAC addresses).  
+- The difference between **TCP** (reliable) and **UDP** (faster, connectionless).  
+- How **ICMP** is used for network testing and diagnostics.  
+
+---
+
+### 🧩 Summary  
+This week was about building a rock-solid foundation in networking. I learned how communication happens step by step — from IP assignments to packets being routed across networks. This knowledge made me realize how important understanding data flow is before moving on to security and analysis.  
+
+---
+
+## 🗓️ Week 17  
+
+### 🧠 My Curiosity  
+After understanding the basics of how networks function, I wanted to learn how they stay secure. This week’s focus was on exploring how encryption and tunneling protect communication across the internet.
+
+---
+
+### ⚙️ Rooms Completed  
+- **Networking Secure Protocols** — Learned how TLS, SSH, and VPN secure network traffic.  
+- **Wireshark: The Basics** — Practiced capturing and analyzing live network packets.  
+
+---
+
+### 📘 Things I Learned  
+- The role of **TLS** and **SSL** in encrypting data between client and server.  
+- How **SSH** ensures secure remote connections.  
+- What **VPNs** do to create encrypted tunnels between two networks.  
+- How to use **Wireshark filters** to inspect TCP handshakes, DNS lookups, and HTTP data.  
+
+---
+
+### 🧩 Summary  
+This week was my first hands-on experience in seeing real network packets. Using Wireshark made everything from the earlier theory come alive. I could literally see the data flow I’d learned about — but now in encrypted and raw form. It gave me a new appreciation for how encryption and monitoring tools work together in cybersecurity.  
+
+---
+
+## 🗓️ Week 18  
+
+### 🧠 My Curiosity  
+Having explored secure protocols and packet analysis, I wanted to get into more practical tools used for reconnaissance and network inspection. These are tools that real penetration testers and defenders use daily.
+
+---
+
+### ⚙️ Rooms Completed  
+- **Tcpdump: The Basics** — Captured, filtered, and displayed packets using CLI.  
+- **Nmap: The Basics** — Learned how to discover hosts, open ports, and services.  
+
+---
+
+### 📘 Things I Learned  
+- How to use **Tcpdump** for fast, scriptable packet capture.  
+- How **Nmap** scans networks to detect open ports and identify services.  
+- The use of **flags and filters** in Tcpdump and Nmap for focused results.  
+- How attackers use Nmap for enumeration — and how defenders detect such scans.  
+
+---
+
+### 🧩 Summary  
+This week was all about applying everything practically. Using Tcpdump and Nmap made me feel like I was truly working in the field. I learned how visibility, awareness, and mapping are the first steps toward both defense and exploitation. These tools taught me how to look at a network like a real hacker or analyst would.  
+
+---
   
 
 
