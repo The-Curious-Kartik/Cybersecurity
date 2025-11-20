@@ -444,6 +444,59 @@ This week was all about applying everything practically. Using Tcpdump and Nmap 
 
 ---
   
+## Week 19
+
+This week I explored the world of **cryptography**, one of the most important foundations of cybersecurity. I learned how encryption, decryption, and hashing protect data integrity and confidentiality in real-world systems. These rooms helped me clearly understand how encryption works both in theory and practice.
+
+### 🔍 My Curiosity
+I wanted to understand:
+- How data can be securely transferred so that only the right person can read it.
+- What’s the difference between **symmetric** and **asymmetric** encryption.
+- How **hashing** helps in password security and file integrity verification.
+
+### ⚙️ Rooms Completed
+- **Cryptography Basics** — Learned core concepts of cryptography, including encryption, decryption, ciphers, and symmetric key algorithms like AES.  
+- **Public Key Cryptography Basics** — Understood how RSA works, the use of public and private keys, and how these are applied in SSH and digital signatures.  
+- **Hashing Basics** — Learned about different hashing algorithms (MD5, SHA-1, SHA-256), and how they ensure file integrity and are used for secure password storage.
+
+### 📚 Things I Learned
+- **Symmetric encryption** uses one key for both encryption and decryption — fast but less secure for sharing.  
+- **Asymmetric encryption** uses two keys (public and private) — more secure for communication.  
+- Hashing is a **one-way process** that can’t be reversed easily, which is why it’s used for password verification.  
+- The concept of **P vs NP** — understanding why hashing is hard to reverse.  
+- How hashing helps verify file integrity using tools like `sha256sum`.
+
+### ✅ Summary
+This week gave me a strong foundation in cryptography and data protection. I now understand how encryption and hashing form the backbone of all secure communication, authentication, and integrity checks in cybersecurity. These concepts will help me a lot in upcoming topics like password cracking and RSA-based encryption analysis.
+
+---
+
+## Week 20
+
+This week I moved further into the practical side of cryptography and learned about real-world **hash cracking** and **RSA exploitation**. It was a challenging yet exciting experience as I started seeing how attackers can break weak encryption if proper security practices aren’t followed.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How encrypted or hashed data can be cracked in practice.
+- How tools like **John the Ripper** work internally to recover passwords.
+- How **RSA encryption** can be broken if implemented incorrectly.
+
+### ⚙️ Rooms Completed
+- **John the Ripper: The Basics** — Learned how to use this powerful tool to crack different types of hashes such as MD5, SHA1, and even ZIP file passwords using dictionary and brute-force attacks.  
+- **Breaking RSA** — A medium-level challenge where I learned how to extract key values (e, n) from an RSA public key, factorize them into p and q, and compute the private key using Fermat’s factorization when primes are too close.
+
+### 📚 Things I Learned
+- How to use `john`, `unshadow`, and wordlists like **rockyou.txt** for password cracking.  
+- The difference between **brute-force** and **dictionary** attacks.  
+- Weak passwords and poor salting make hash cracking faster and easier.  
+- In RSA, if p and q are too close, encryption can be broken using mathematical algorithms like **Fermat’s factorization**.  
+- Learned how the **private key (d)** is generated using `e`, `p`, and `q` values.
+
+### ✅ Summary
+This week was very practical and technical. It connected the theory of encryption from last week with real-world attack scenarios. Cracking hashes and breaking weak RSA implementations showed me why cryptographic hygiene is so critical in cybersecurity. I now feel more confident analyzing and defending systems that use encryption and authentication.
+
+---
+
 
 
 
