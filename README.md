@@ -497,6 +497,61 @@ This week was very practical and technical. It connected the theory of encryptio
 
 ---
 
+## Week 21
+
+This week I transitioned into the **exploitation phase of cybersecurity**, focusing on how real-world vulnerabilities are abused and how frameworks like Metasploit are used to perform exploitation in a structured way. It helped me understand how attackers move from identifying a weakness to actively exploiting it.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How real-world vulnerabilities (CVEs) are exploited in practice.
+- How client-side attacks work and bypass security protections.
+- How the **Metasploit Framework** is structured and used during exploitation.
+
+### ⚙️ Rooms Completed
+- **Moniker Link (CVE-2024-21413)** — Learned how this Outlook vulnerability bypasses Protected View to leak user credentials through crafted links and user interaction.  
+- **Metasploit: Introduction** — Got introduced to the Metasploit Framework, its core components (exploits, payloads, auxiliary modules), and basic navigation.  
+- **Metasploit: Exploitation** — Used Metasploit for scanning, vulnerability assessment, and launching exploits against vulnerable targets.
+
+### 📚 Things I Learned
+- How client-side vulnerabilities often rely on **user interaction and social engineering** rather than complex payloads.
+- How to analyze a CVE by understanding the affected component, attack vector, and impact.
+- The role of Metasploit in automating exploitation workflows.
+- How to select suitable exploits and payloads based on the target environment.
+- The importance of proper enumeration before attempting exploitation.
+
+### ✅ Summary
+This week strengthened my understanding of exploitation fundamentals. Working with a real CVE and using Metasploit helped me see how vulnerabilities are actually abused in real-world scenarios. It improved my ability to think like an attacker while still maintaining a structured and methodical approach.
+
+---
+
+## Week 22
+
+This week focused on **post-exploitation and Windows exploitation**, where I learned how attackers maintain access after exploitation and how common misconfigurations can lead to full system compromise.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How attackers interact with compromised systems after exploitation.
+- How **Meterpreter** works as an advanced in-memory payload.
+- How Windows systems can be exploited due to misconfigurations.
+
+### ⚙️ Rooms Completed
+- **Metasploit: Meterpreter** — Learned how in-memory payloads are used for post-exploitation and how to interact with compromised systems.
+- **Blue** — Deployed and exploited a Windows machine by identifying and abusing common misconfiguration issues.
+
+### 📚 Things I Learned
+- How **Meterpreter** enables post-exploitation activities such as session handling, system interaction, and enumeration.
+- The benefits of in-memory payloads and their role in reducing disk artifacts.
+- Common Windows misconfigurations that attackers exploit to gain or escalate access.
+- The full exploitation workflow: enumeration → exploitation → post-exploitation.
+- The importance of controlled and documented actions during post-exploitation.
+
+### ✅ Summary
+This week significantly improved my understanding of post-exploitation and Windows attacks. Exploiting a Windows machine and working with Meterpreter helped me connect exploitation theory with real-world attack behavior and reinforced the importance of proper system hardening.
+
+---
+
+
+
 
 
 
