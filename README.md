@@ -550,6 +550,60 @@ This week significantly improved my understanding of post-exploitation and Windo
 
 ---
 
+## Week 23
+
+This week I shifted my focus to the **fundamentals of web applications**, which are essential for understanding how modern websites work and where vulnerabilities can occur. It was important to first understand how web communication functions before moving into deeper web exploitation techniques.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How web browsers communicate with servers using **HTTP**.
+- How **URLs, request methods, and response codes** control web interactions.
+- How JavaScript adds interactivity to web applications and what security risks it may introduce.
+
+### ⚙️ Rooms Completed
+- **Web Application Basics** — Learned the fundamental concepts of how web applications work, including HTTP requests and responses, URLs, status codes, headers, and how data flows between clients and servers.  
+- **JavaScript Essentials** — Explored how JavaScript is used to create dynamic and interactive web pages and learned about common vulnerabilities that can arise from insecure JavaScript usage.
+
+### 📚 Things I Learned
+- How the **HTTP protocol** works and how browsers send requests to servers.
+- The structure of a **URL** and how parameters can influence server responses.
+- Different HTTP request methods such as **GET, POST, PUT, and DELETE**.
+- The meaning of common **HTTP response codes** like 200, 301, 403, and 404.
+- How JavaScript interacts with the **DOM (Document Object Model)** to modify webpage content dynamically.
+- Basic awareness of security risks related to poorly implemented JavaScript in web applications.
+
+### ✅ Summary
+This week strengthened my understanding of how web applications operate behind the scenes. Learning about HTTP communication and JavaScript behavior helped me build a foundation for identifying and analyzing vulnerabilities in web-based systems.
+
+---
+
+## Week 24
+
+This week I continued exploring the web application ecosystem by learning about **databases and web pentesting tools**. Understanding how databases store information and how tools like Burp Suite intercept web traffic helped me see how attackers analyze and manipulate web requests.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How websites store and retrieve data using **SQL databases**.
+- How attackers interact with databases through vulnerable web applications.
+- How **Burp Suite** can intercept and analyze web traffic during security testing.
+
+### ⚙️ Rooms Completed
+- **SQL Fundamentals** — Learned how to write basic SQL queries to retrieve, filter, and manage data stored in relational databases.  
+- **Burp Suite: The Basics** — Got introduced to Burp Suite and learned how to intercept, inspect, and modify HTTP requests and responses during web application testing.
+
+### 📚 Things I Learned
+- Basic SQL commands such as **SELECT, INSERT, UPDATE, and DELETE**.
+- How databases organize information in **tables, rows, and columns**.
+- The role of SQL queries in retrieving specific data from a database.
+- How **Burp Suite Proxy** can intercept HTTP traffic between the browser and server.
+- How modifying requests helps testers analyze application behavior and potential vulnerabilities.
+- The importance of understanding normal web traffic before attempting advanced web attacks.
+
+### ✅ Summary
+This week expanded my knowledge of how web applications interact with databases and how security professionals inspect web traffic using specialized tools. Learning SQL fundamentals and Burp Suite provided a strong foundation for future web exploitation and vulnerability testing.
+
+---
+
 
 
 
