@@ -604,6 +604,223 @@ This week expanded my knowledge of how web applications interact with databases 
 
 ---
 
+## Week 25
+
+This week I revisited the updated **Pre Security** path and strengthened my understanding of how computers function at a fundamental level. While the topics were introductory, they reinforced concepts that are essential before diving deeper into cybersecurity.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- What components make up a computer system.
+- The different categories of computers and their use cases.
+- How the client-server model enables communication across networks.
+
+### ⚙️ Rooms Completed
+- **Inside a Computer System** — Explored the core hardware components of a computer and learned how they work together to perform computing tasks.
+- **Computer Types** — Learned about different types of computers, ranging from personal devices to embedded systems and enterprise hardware.
+- **Client-Server Basics** — Studied the client-server architecture and how clients and servers communicate over a network.
+
+### 📚 Things I Learned
+- The purpose of major hardware components such as the CPU, RAM, storage, and motherboard.
+- The differences between desktops, laptops, servers, embedded devices, and other computer types.
+- How clients request services from servers over a network.
+- The importance of client-server architecture in modern web applications and enterprise environments.
+- Why understanding computer fundamentals is important before learning offensive security.
+
+### ✅ Summary
+This week refreshed my knowledge of basic computer concepts and networking fundamentals. Although the material was introductory, it reinforced the foundation required for more advanced cybersecurity topics.
+
+---
+
+## Week 26
+
+This week I continued the updated **Pre Security** path by learning how virtualization and cloud computing power modern IT environments. I also completed the topic recap to reinforce everything I had learned throughout this section.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- Why virtualization is widely used in cybersecurity and IT.
+- How cloud computing changes the way infrastructure is deployed and managed.
+- How these technologies support modern security operations.
+
+### ⚙️ Rooms Completed
+- **Virtualisation Basics** — Learned how virtual machines work and why virtualization is widely used for security testing and efficient resource management.
+- **Cloud Computing Fundamentals** — Explored the fundamentals of cloud computing and the different ways organizations deliver computing resources.
+- **Topic Transition Recap** — Reviewed and reinforced the concepts learned throughout the Computer Fundamentals section.
+
+### 📚 Things I Learned
+- How virtualization allows multiple operating systems to run on a single physical machine.
+- The benefits of virtual machines for testing, isolation, and cybersecurity labs.
+- Basic cloud computing concepts and service models.
+- How cloud platforms provide scalable computing resources over the internet.
+- Reinforced the key concepts covered throughout the Computer Fundamentals module.
+
+### ✅ Summary
+This week completed the Computer Fundamentals section of the updated Pre Security path. Understanding virtualization and cloud computing strengthened my foundation for future cybersecurity labs and modern enterprise environments.
+
+---
+
+## Week 27
+
+This week I focused on the fundamentals of **operating systems**, learning how Windows and Linux function from a user's perspective. Understanding these concepts is essential before performing system administration or security testing on different platforms.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How operating systems manage hardware and software resources.
+- The basic features and navigation of Windows.
+- How to interact with Linux through the command-line interface.
+
+### ⚙️ Rooms Completed
+- **Operating Systems: Introduction** — Learned the purpose of operating systems, their core components, and how they manage computer resources.
+- **Windows Basics** — Explored the Windows operating system, file management, and essential built-in tools.
+- **Linux CLI Basics** — Learned how to navigate Linux using the command-line interface and perform common filesystem operations.
+
+### 📚 Things I Learned
+- The role of an operating system in managing processes, memory, storage, and hardware.
+- Basic navigation and file management in Windows.
+- Essential Linux commands such as `pwd`, `ls`, `cd`, `mkdir`, `cp`, `mv`, and `rm`.
+- The importance of the Linux terminal in cybersecurity and system administration.
+- How command-line interfaces provide greater control over operating systems.
+
+### ✅ Summary
+This week strengthened my understanding of operating systems by covering both graphical and command-line environments. Learning Linux commands and Windows fundamentals provided a solid base for future penetration testing and system administration tasks.
+
+---
+
+## Week 28
+
+This week I continued exploring operating systems by learning the **Windows Command Line**, operating system security concepts, and reviewing everything covered throughout the module. These topics helped connect operating system knowledge with practical cybersecurity concepts.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How to use the Windows Command Prompt efficiently.
+- The security mechanisms built into operating systems.
+- How authentication and secure remote access work in Linux.
+
+### ⚙️ Rooms Completed
+- **Windows CLI Basics** — Learned how to navigate and interact with Windows using the Command Prompt.
+- **Operating System Security** — Explored operating system security concepts and learned about SSH authentication and system protection mechanisms.
+- **Topic Transition Recap** — Reviewed and reinforced the key concepts covered throughout the Operating Systems Basics section.
+
+### 📚 Things I Learned
+- Basic Windows Command Prompt commands for navigating directories and managing files.
+- The purpose of operating system permissions and user authentication.
+- How SSH enables secure remote access to Linux systems.
+- The importance of protecting operating systems through proper security configurations.
+- Reinforced the operating system concepts learned throughout the module.
+
+### ✅ Summary
+This week completed the Operating Systems Basics section by combining command-line usage with security concepts. It reinforced the importance of understanding both Windows and Linux environments before progressing to more advanced cybersecurity topics.
+
+---
+
+## Week 29
+
+This week I explored how computers represent and process information internally before moving into basic programming concepts. Understanding how data is stored and manipulated gave me a better appreciation of the technologies that power modern software and cybersecurity tools.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How computers represent numbers, text, and colors.
+- How different character encoding standards work.
+- What a simple Python program looks like and how programming supports cybersecurity.
+
+### ⚙️ Rooms Completed
+- **Data Representation** — Learned how computers represent numbers, colors, and other forms of data using binary.
+- **Data Encoding** — Explored how characters are encoded using standards such as ASCII and Unicode (UTF).
+- **Python: Simple Demo** — Wrote and understood a basic Python program while learning the fundamentals of Python syntax.
+
+### 📚 Things I Learned
+- How binary is used to represent different types of information.
+- The difference between data representation and data encoding.
+- How ASCII and Unicode allow computers to store and display characters.
+- Basic Python syntax, including variables, printing output, and simple program structure.
+- Why programming knowledge is valuable for automation and cybersecurity.
+
+### ✅ Summary
+This week strengthened my understanding of how computers process information and introduced me to basic Python programming. These concepts form an important foundation for scripting and automation in cybersecurity.
+
+---
+
+## Week 30
+
+This week I continued learning software fundamentals by exploring introductory JavaScript and SQL concepts. I also completed the module recap, reinforcing the key ideas covered throughout the Software Basics section.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How JavaScript adds functionality to websites.
+- How databases store and retrieve information using SQL.
+- How programming and databases support modern web applications.
+
+### ⚙️ Rooms Completed
+- **JavaScript: Simple Demo** — Learned the basic structure of a JavaScript program and how it adds interactivity to web applications.
+- **Database SQL Basics** — Explored relational databases and practiced writing simple SQL queries to retrieve and manage data.
+- **Topic Transition Recap** — Reviewed and reinforced the concepts learned throughout the Software Basics section.
+
+### 📚 Things I Learned
+- Basic JavaScript syntax and how scripts execute inside web pages.
+- Fundamental SQL statements such as `SELECT`, `INSERT`, `UPDATE`, and `DELETE`.
+- How relational databases organize information into tables, rows, and columns.
+- The relationship between web applications, databases, and programming languages.
+- Reinforced the software concepts covered throughout the module.
+
+### ✅ Summary
+This week completed the Software Basics section by introducing JavaScript and SQL fundamentals. These topics expanded my understanding of how applications function behind the scenes and prepared me for more advanced web security and penetration testing concepts.
+
+---
+
+## Week 31
+
+This week I explored the core principles of cybersecurity by learning about the **CIA Triad**, fundamental cryptography concepts, and the offensive security mindset. These topics helped me understand why security exists and how attackers think when targeting systems.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- The core objectives of information security.
+- How cryptography protects digital information.
+- How ethical hackers identify and exploit vulnerabilities to improve security.
+
+### ⚙️ Rooms Completed
+- **The CIA Triad** — Learned about the Confidentiality, Integrity, and Availability model and how it guides cybersecurity practices.
+- **Cryptography Concepts** — Explored the fundamentals of cryptography, encryption, hashing, and why they are essential for protecting digital data.
+- **Become a Hacker** — Learned the offensive security mindset and explored how ethical hackers discover and exploit vulnerabilities to strengthen security.
+
+### 📚 Things I Learned
+- The importance of **Confidentiality, Integrity, and Availability (CIA)** in securing information.
+- The difference between encryption, hashing, and encoding.
+- How cryptography protects sensitive information during storage and transmission.
+- The methodology ethical hackers follow when assessing system security.
+- Why understanding an attacker's mindset helps defenders build stronger security controls.
+
+### ✅ Summary
+This week introduced me to the core security principles that form the foundation of cybersecurity. Learning the CIA Triad, cryptography, and the hacker mindset gave me a better understanding of both offensive and defensive security perspectives.
+
+---
+
+## Week 32
+
+This week I concluded the updated **Pre Security** path by exploring the defender's perspective and reviewing everything I had learned throughout the course. It highlighted the importance of protecting systems using layered security and applying the concepts learned in previous modules.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How defenders protect systems against cyber threats.
+- The responsibilities of blue teams in modern organizations.
+- How the concepts learned throughout Pre Security connect together.
+
+### ⚙️ Rooms Completed
+- **Become a Defender** — Explored defensive security, cyber infrastructure, and the strategies used to detect, prevent, and respond to cyber attacks.
+- **Topic Transition Recap** — Reviewed and reinforced the knowledge gained throughout the Attacks and Defenses section.
+
+### 📚 Things I Learned
+- The role of defensive security in protecting organizational assets.
+- The responsibilities of blue teams in monitoring and responding to threats.
+- The importance of layered security and proactive defense strategies.
+- How offensive and defensive security complement one another.
+- Reinforced the key concepts covered throughout the updated Pre Security learning path.
+
+### ✅ Summary
+This week completed the updated Pre Security path by focusing on the defender's role in cybersecurity. Revisiting these foundational concepts strengthened my overall understanding of both offensive and defensive security, providing a solid base for continuing my penetration testing journey.
+
+---
+
+
+
 
 
 
