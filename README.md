@@ -819,8 +819,123 @@ This week completed the updated Pre Security path by focusing on the defender's 
 
 ---
 
+## Week 33
 
+This week I started exploring **Offensive Security Tooling**, focusing on tools used by penetration testers for credential testing, web enumeration, and interacting with compromised systems. I also learned about different types of shells and how they fit into offensive security workflows.
 
+### 🔍 My Curiosity
+I wanted to explore:
+- How penetration testers test the security of login systems.
+- How hidden directories and resources can be discovered on web servers.
+- What different types of shells are and how they are used after gaining access to a system.
+- How offensive tools can automate common penetration testing tasks.
+
+### ⚙️ Rooms Completed
+- **Hydra** — Learned about Hydra, a fast network logon cracker, and used it to bruteforce and obtain website credentials.
+- **Gobuster: The Basics** — Learned the fundamentals of Gobuster and how it can be used for enumeration and discovering hidden web directories and resources.
+- **Shells Overview** — Explored different types of shells and their role in interacting with systems during penetration testing.
+
+### 📚 Things I Learned
+- How Hydra can be used to perform automated credential brute-force attacks.
+- The importance of choosing appropriate wordlists and understanding authentication mechanisms during credential testing.
+- How Gobuster performs enumeration to discover hidden directories and resources.
+- Why enumeration is an important part of the penetration testing process.
+- The differences between various types of shells.
+- How shells can provide an interface for interacting with a target system after gaining access.
+
+### ✅ Summary
+This week introduced me to several important offensive security tools and concepts. I gained hands-on experience with Hydra and Gobuster while learning how different shells are used in penetration testing. These tools helped me understand how attackers perform credential testing, enumeration, and system interaction during an assessment.
+
+---
+
+## Week 34
+
+This week I continued exploring **Offensive Security Tooling** by learning about SQL injection, SQLMap, and more advanced Nmap techniques. I also reviewed the concepts covered throughout this section to reinforce my understanding.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How SQL injection vulnerabilities can be identified and exploited.
+- How SQLMap automates SQL injection testing.
+- How Nmap can be combined with other tools during penetration testing.
+- How previously learned offensive security concepts connect together in a practical workflow.
+
+### ⚙️ Rooms Completed
+- **SQLMap: The Basics** — Learned about SQL injection and used SQLMap to exploit this type of vulnerability.
+- **Intermediate Nmap** — Built upon my existing Nmap knowledge and learned how to combine Nmap with other tools to identify and access a target machine.
+- **Topic Rewind Recap** — Reviewed the concepts covered throughout the Offensive Security Tooling section and reinforced my knowledge through practical challenges.
+
+### 📚 Things I Learned
+- How SQL injection vulnerabilities can occur when applications improperly handle user input.
+- How SQL injection can be used to interact with backend databases in vulnerable applications.
+- How SQLMap automates different stages of SQL injection testing and exploitation.
+- How Nmap can be combined with other tools as part of a broader penetration testing workflow.
+- The importance of enumeration and reconnaissance before attempting exploitation.
+- Reinforced my understanding of Hydra, Gobuster, shells, and other offensive security concepts through the topic recap.
+
+### ✅ Summary
+This week expanded my practical penetration testing knowledge by introducing SQL injection and SQLMap while also building upon my Nmap skills. The combination of these tools showed me how reconnaissance, enumeration, vulnerability discovery, and exploitation can work together during an offensive security assessment. The final recap helped reinforce the concepts I learned throughout the Offensive Security Tooling section.
+
+---
+
+## Week 35
+
+This week I began exploring **Defensive Security**, shifting my focus from offensive techniques to understanding how organizations detect, investigate, and defend against cyber threats. I was introduced to defensive security concepts, Security Operations Centers, and digital forensics.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How organizations defend their systems against cyber attacks.
+- What role a Security Operations Center (SOC) plays in cybersecurity.
+- How threat intelligence, SIEM, and malware analysis support defenders.
+- How digital forensics is used to investigate security incidents.
+- How defenders collect and analyze evidence after an attack.
+
+### ⚙️ Rooms Completed
+- **Defensive Security Intro** — Explored the fundamentals of defensive security and related areas such as Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM.
+- **SOC Fundamentals** — Learned about Security Operations Centers, the responsibilities of SOC teams, and the processes they follow to monitor and respond to threats.
+- **Digital Forensics Fundamentals** — Learned the fundamentals of digital forensics, the investigation process, and worked through a practical forensic example.
+
+### 📚 Things I Learned
+- The difference between offensive and defensive security.
+- The role of **Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM** in defensive security.
+- How SOC teams continuously monitor systems and investigate suspicious activity.
+- The importance of collecting and preserving digital evidence during investigations.
+- How digital forensics can help determine what happened during a security incident.
+- Why structured investigation processes are important when analyzing compromised systems.
+
+### ✅ Summary
+This week marked my transition into **Defensive Security** and introduced me to the core areas involved in protecting and investigating systems. Learning about SOC operations and digital forensics gave me a better understanding of how defenders monitor environments and investigate potential security incidents.
+
+---
+
+## Week 36
+
+This week I continued my **Defensive Security** journey by focusing on incident response and security logs. I learned how defenders respond to security incidents and how logs provide valuable evidence for detecting and investigating suspicious activity.
+
+### 🔍 My Curiosity
+I wanted to explore:
+- How security teams respond when an incident occurs.
+- The different stages involved in incident response.
+- How logs can reveal suspicious or malicious activity.
+- How security analysts analyze log data during investigations.
+- How the defensive security concepts I learned connect together in real-world investigations.
+
+### ⚙️ Rooms Completed
+- **Incident Response Fundamentals** — Learned the fundamentals of incident response and how cybersecurity teams handle and investigate security incidents.
+- **Logs Fundamentals** — Learned what logs are, why they are important, and how security analysts analyze them during investigations.
+- **Topic Transition Recap** — Reviewed and reinforced the concepts covered throughout the Defensive Security section.
+
+### 📚 Things I Learned
+- The importance of having a structured incident response process.
+- How incident response helps organizations detect, contain, investigate, and recover from security incidents.
+- Why logs are an important source of evidence during security investigations.
+- How analysts can examine log entries to identify suspicious activities and potential attacks.
+- The importance of correlating information from different sources during an investigation.
+- Reinforced my understanding of SOC operations, digital forensics, threat intelligence, and other defensive security concepts through the recap.
+
+### ✅ Summary
+This week strengthened my understanding of the **defender's perspective** by focusing on incident response and log analysis. I learned how security teams investigate incidents and use logs as evidence to understand what happened. Completing the recap also helped connect the different areas of defensive security into a broader incident investigation workflow.
+
+---
 
 
 
